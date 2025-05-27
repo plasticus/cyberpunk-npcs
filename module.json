@@ -1,25 +1,29 @@
 {
-  "name": "cyberpunk-npcs",
+  "id": "cyberpunk-npcs",
   "title": "Plastic Cyberpunk NPCs",
   "description": "A compendium of custom cyberpunk humanoid monsters for D&D 5e.",
   "version": "1.0.0",
-  "author": "Corey",
-  "esmodules": [],
+  "authors": [
+    {
+      "name": "Corey"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "scripts": [],
   "styles": [],
   "packs": [
     {
       "name": "cyberpunk-npcs",
       "label": "Plastic Cyberpunk NPCs",
-      "system": "dnd5e",
       "path": "packs/cyberpunk-npcs.db",
-      "type": "Actor"
+      "type": "Actor",
+      "system": "dnd5e"
     }
   ],
-  "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "13",
-  "systems": [
-    "dnd5e"
-  ],
+  "systems": ["dnd5e"],
   "license": "MIT",
   "url": "https://github.com/plasticus/cyberpunk-npcs",
   "manifest": "https://raw.githubusercontent.com/plasticus/cyberpunk-npcs/main/module.json",
