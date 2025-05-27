@@ -17,7 +17,7 @@
   "packs": [
     {
       "name": "cyberpunk-npcs",
-      "label": "Plastic Cyberpunk NPCs",
+      "label": "Plastic Cyberpunk NPCs (v0.9)",
       "path": "packs/cyberpunk-npcs.db",
       "type": "Actor",
       "system": "dnd5e"
