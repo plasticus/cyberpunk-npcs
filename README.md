@@ -4,14 +4,17 @@ A FoundryVTT module containing low-CR cyberpunk-themed humanoid NPCs, designed f
 
 ## 🧠 Included NPCs
 
-| Name                    | CR   | Description                                 |
-|-------------------------|------|---------------------------------------------|
-| Junior Security Guard   | 1/8  | Rookie enforcer with a standard baton.      |
-| Security Guard          | 1/4  | Tactical rent-a-cop with light armor.       |
-| Security Supervisor     | 1    | Veteran leader with a shock baton.          |
-| Back-Alley Scrapper     | 1/4  | Cyber-enhanced brawler from the slums.      |
-| Neon Ganger             | 1/8  | Fast and flashy with a glowing blade.       |
-| Hackrat                 | 1/2  | Hacking-savvy scavenger with shock gear.    |
+| Name                    | CR   | Description                                                           |
+|-------------------------|------|-----------------------------------------------------------------------|
+| Junior Security Guard   | 1/8  | Rookie enforcer with a standard baton.                                |
+| Security Guard          | 1/4  | Tactical rent-a-cop with light armor.                                 |
+| Security Supervisor     | 1    | Veteran leader with a shock baton.                                    |
+| Back-Alley Scrapper     | 1/4  | Cyber-enhanced brawler from the slums.                                |
+| Neon Ganger             | 1/8  | Fast and flashy with a glowing blade.                                 |
+| Hackrat                 | 1/2  | Hacking-savvy scavenger with shock gear.                              |
+| Sparkskitter Drone      | 1/4  | Spider-like construct with electric lash and target-marking signal.   |
+| Ironhowl Enforcer       | 1    | Floating orb with arcane pikes and a disruptive kinetic pulse.        |
+| Mimetic Rift Node       | 2    | Psychic projection crystal that splinters into illusions.             |
 
 ## 🎯 Installation
 
