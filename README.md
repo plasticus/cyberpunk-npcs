@@ -16,6 +16,25 @@ A FoundryVTT module containing low-CR cyberpunk-themed humanoid NPCs, designed f
 | Ironhowl Enforcer       | 1    | Floating orb with arcane pikes and a disruptive kinetic pulse.        |
 | Mimetic Rift Node       | 2    | Psychic projection crystal that splinters into illusions.             |
 
+## 🔧 Included Items
+
+| Name                  | Type      | Description                                                                 |
+|-----------------------|-----------|-----------------------------------------------------------------------------|
+| Baton of Shock Impulse | Weapon   | Compact shock baton that deals bludgeoning and lightning; disables reactions. |
+| Shock Staff           | Weapon    | Long staff with electric coils; deals mixed damage and disables reactions.  |
+| Zap Disc              | Consumable| Detonates in a 10 ft radius; deals lightning damage and prevents reactions. |
+| Neurospike Capsule    | Consumable| Creates a silence zone for 2 rounds.                                       |
+| Chaff Bomb            | Consumable| Obscures area and imposes disadvantage on ranged attacks.                  |
+| Signal Leech Dart     | Consumable| Marks a target to grant advantage on ranged attacks for 1 minute.          |
+| Arc Trap              | Consumable| Triggers lightning damage when a creature steps on it.                     |
+| Perfect Loop          | Feat      | Monks repeat their last action with no rerolls — flawless execution.       |
+| Indexed Weakness      | Feat      | Marks a foe; unarmed strikes deal extra force damage once per turn.       |
+| Shared Circuit        | Feat      | Link with an ally to absorb damage or transfer HP.                         |
+| Pulse-Sync Burst      | Feat      | Sync with allies to gain movement and temp HP.                             |
+| Care Protocol Override| Feat      | Twice per short rest: heal, stabilize, or resist mental effects.           |
+| Harmonic Bloom        | Feat      | Enter a 3-turn trance to buff allies and restore Monk Focus.               |
+
+
 ## 🎯 Installation
 
 ### FoundryVTT Manifest URL
