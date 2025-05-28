@@ -2,7 +2,7 @@
   "id": "cyberpunk-npcs",
   "title": "Plastic Cyberpunk NPCs",
   "description": "A compendium of custom cyberpunk humanoid monsters for D&D 5e.",
-  "version": "0.9.1",
+  "version": "0.8.7",
   "authors": [
     {
       "name": "Corey"
@@ -17,7 +17,7 @@
   "packs": [
     {
       "name": "cyberpunk-npcs",
-      "label": "Plastic Cyberpunk NPCs (v0.9)",
+      "label": "Plastic Cyberpunk NPCs (v0.8.7)",
       "path": "packs/cyberpunk-npcs.db",
       "type": "Actor",
       "system": "dnd5e"
