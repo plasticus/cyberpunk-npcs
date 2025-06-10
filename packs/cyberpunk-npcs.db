@@ -1,1 +1,48 @@
-{"_id":"test-npc","name":"Test NPC","type":"npc","img":"icons/svg/mystery-man.svg","system":{"abilities":{"str":{"value":10},"dex":{"value":10},"con":{"value":10},"int":{"value":10},"wis":{"value":10},"cha":{"value":10}},"attributes":{"hp":{"value":5,"max":5},"ac":{"value":10}},"details":{"type":{"value":"humanoid"}}},"items":[{"_id":"unarmed-strike","name":"Unarmed Strike","type":"weapon","img":"icons/svg/fist.svg","system":{"equipped":true,"proficient":true,"activation":{"type":"action","cost":1},"actionType":"mwak","attackBonus":"","damage":{"parts":[["1+@mod","bludgeoning"]]},"ability":"str","weaponType":"natural"}}]}
+{
+  "_id": "test-npc",
+  "name": "Test NPC",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "abilities": {
+      "str": { "value": 10 },
+      "dex": { "value": 10 },
+      "con": { "value": 10 },
+      "int": { "value": 10 },
+      "wis": { "value": 10 },
+      "cha": { "value": 10 }
+    },
+    "attributes": {
+      "hp": { "value": 5, "max": 5 },
+      "ac": { "value": 10 }
+    },
+    "details": {
+      "type": { "value": "humanoid" }
+    }
+  },
+  "items": [
+    {
+      "_id": "unarmed-strike",
+      "name": "Unarmed Strike",
+      "type": "weapon",
+      "img": "icons/svg/fist.svg",
+      "system": {
+        "activation": {
+          "type": "action",
+          "cost": 1
+        },
+        "actionType": "mwak",
+        "attackBonus": "",
+        "ability": "str",
+        "proficient": true,
+        "equipped": true,
+        "damage": {
+          "parts": [
+            ["1 + @mod", "bludgeoning"]
+          ]
+        },
+        "weaponType": "natural"
+      }
+    }
+  ]
+}
