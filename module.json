@@ -2,7 +2,7 @@
   "id": "cyberpunk-npcs",
   "title": "Plastic Cyberpunk NPCs",
   "description": "A compendium of custom cyberpunk humanoid monsters and gear for D&D 5e.",
-  "version": "0.6.23",
+  "version": "0.6.24",
   "authors": [
     {
       "name": "Corey"
@@ -28,16 +28,7 @@
       "path": "packs/cyberpunk-items.db",
       "type": "Item",
       "system": "dnd5e"
-    },
-    {
-      "name": "cybertest",
-      "label": "Cybertest",
-      "path": "packs/cybertest.db",
-      "entity": "Actor",
-      "type": "Actor",
-      "system": "dnd5e"
-    }
-    
+    }    
   ],
   "systems": ["dnd5e"],
   "license": "MIT",
