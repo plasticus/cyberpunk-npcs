@@ -28,7 +28,16 @@
       "path": "packs/cyberpunk-items.db",
       "type": "Item",
       "system": "dnd5e"
+    },
+    {
+      "name": "cybertest",
+      "label": "Cybertest",
+      "path": "packs/cybertest.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "system": "dnd5e"
     }
+    
   ],
   "systems": ["dnd5e"],
   "license": "MIT",
