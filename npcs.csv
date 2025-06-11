@@ -1,0 +1,18 @@
+_id,name,CR,image,str,dex,con,int,wis,cha,weapon,weapon2
+Back-alley-scrapper,Back-Alley Scrapper,0.25,modules/cyberpunk-npcs/assets/tokens/back-alley-scrapper.webp,14,12,12,8,12,8,,
+neon-ganger,Neon Ganger,0.125,modules/cyberpunk-npcs/assets/tokens/tactical-guard.webp,10,14,10,10,8,11,Neon Shiv,Thrown Shiv
+junior-security-guard,Junior Security Guard,0.125,modules/cyberpunk-npcs/assets/tokens/supervisor-shockbaton.webp,10,12,10,10,10,10,Baton,
+security-guard,Security Guard,0.25,modules/cyberpunk-npcs/assets/tokens/sparkjaw-punk.webp,12,12,12,10,11,10,Baton,Throwing Dagger
+security-supervisor,Security Supervisor,1,modules/cyberpunk-npcs/assets/tokens/chrome-bastion.webp,13,12,14,12,12,11,Shock Baton,Tactical Command (Recharge 5–6)
+hackrat,Hackrat,0.125,modules/cyberpunk-npcs/assets/tokens/steelbar-vagrant.webp,8,14,10,12,10,9,Shock Spike,Static Scramble (Recharge 6)
+sparkskitter-drone,Sparkskitter Drone,0.25,modules/cyberpunk-npcs/assets/tokens/hexrider-scout.webp,6,14,10,8,10,6,Arc Lash,Signal Mark
+ironhowl-enforcer,Ironhowl Enforcer,1,modules/cyberpunk-npcs/assets/tokens/sparkskitter-drone.webp,14,10,14,6,10,6,Piercing Bolts,Kinetic Pulse (Recharge 5–6)
+mimetic-rift-node,Mimetic Rift Node,2,modules/cyberpunk-npcs/assets/tokens/mimetic-rift-node.webp,4,14,10,12,12,10,Mind Lance,Mirage Split (Recharge 6)
+chrome-bastion,Chrome Bastion,3,modules/cyberpunk-npcs/assets/tokens/ironhowl-enforcer.webp,18,10,16,8,12,8,Thunder Slam,Reactive Plating
+neuroshade-overseer,Neuroshade Overseer,3,modules/cyberpunk-npcs/assets/tokens/hackrat.webp,8,12,14,16,12,16,Command,Dissonant Whispers
+hexrider-scout,Hexrider Scout,2,modules/cyberpunk-npcs/assets/tokens/junior-security.webp,10,18,12,14,10,10,Disguise Self,Mirror Image
+arc-node-duelist,Arc-Node Duelist,2,modules/cyberpunk-npcs/assets/tokens/neuroshade-overseer.webp,14,16,14,10,10,10,Mono-Saber Strike,Shield
+sparkjaw-punk,Sparkjaw Punk,1,modules/cyberpunk-npcs/assets/tokens/arc-node-duelist.webp,14,14,12,8,10,10,Shock Punch,Adrenaline Surge
+steelbar-vagrant,Steelbar Vagrant,1,icons/weapons/daggers/dagger-steel-gray.webp,16,10,14,8,10,8,Wild Swing,Shrug It Off
+ruk-dreadsplice,Ruk Dreadsplice,4,modules/cyberpunk-npcs/assets/tokens/neon-ganger.webp,18,14,18,8,12,10,Dual Hammers,Cyber-Rage (1/Short Rest)
+,,,modules/cyberpunk-npcs/assets/tokens/ruk-dreadsplice.webp,,,,,,,,
